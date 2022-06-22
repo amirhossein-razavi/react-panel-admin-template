@@ -1,0 +1,16 @@
+.customTable .ant-table, .customTable .ant-table-thead>tr>th {
+  background: transparent;
+}
+
+.customTable .ant-table-thead>tr>th {
+  color: var(--text5);
+  border-bottom: 2px solid var(--text8);
+}
+
+.customTable .ant-table-thead>tr>th:not(:last-child):not(.ant-table-selection-column):not(.ant-table-row-expand-icon-cell):not([colspan])::before {
+  background: transparent
+}
+
+.customTable .ant-table-tbody > tr > td{
+  border-bottom: 1px solid var(--grey);
+}

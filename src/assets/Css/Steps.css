@@ -1,0 +1,14 @@
+.customStepsRtl.ant-steps-vertical>.ant-steps-item>.ant-steps-item-container>.ant-steps-item-tail::after {
+    height: 20px;
+    margin-right: -5px;
+}
+
+.customStepsLtr.ant-steps-vertical>.ant-steps-item>.ant-steps-item-container>.ant-steps-item-tail::after {
+    height: 20px;
+    margin-left: -5px;
+}
+
+.customStepsRtl.ant-steps-vertical>.ant-steps-item,
+.customStepsLtr.ant-steps-vertical>.ant-steps-item {
+    margin-top: 20px;
+}

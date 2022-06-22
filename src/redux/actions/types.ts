@@ -1,0 +1,35 @@
+export const ON_NOTIFICATION = 'ON_NOTIFICATION';
+
+export const ON_LOADING = 'ON_LOADING';
+
+export const ON_CHANGE_BREAKPOINT = 'ON_CHANGE_BREAKPOINT';
+export const ON_UI_CHANGE = 'ON_UI_CHANGE';
+export const ON_CHANGE_SIDEBAR_COLLAPSED = 'ON_CHANGE_SIDEBAR_COLLAPSED';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const ON_AUTH_CHANGE = 'ON_AUTH_CHANGE';
+export const ON_GET_PROFILE = 'ON_GET_PROFILE';
+
+export const ON_DASHBOARD_CHANGE = 'ON_DASHBOARD_CHANGE';
+export const ON_GET_USERS = 'ON_GET_USERS';
+export const ON_GET_KYC_USERS = 'ON_GET_KYC_USERS';
+export const ON_GET_USER = 'ON_GET_USER';
+export const ON_GET_MANAGERS = 'ON_GET_MANAGERS';
+export const ON_GET_MANAGER = 'ON_GET_MANAGER';
+export const GET_NOTIFS = 'GET_NOTIFS';
+export const ON_GET_ALERTS = 'ON_GET_ALERTS';
+export const ON_GET_ALERT = 'ON_GET_ALERT';
+export const ON_GET_ASSETS = 'ON_GET_ASSETS';
+export const ON_GET_ASSET = 'ON_GET_ASSET';
+export const ON_GET_USER_ASSET = 'ON_GET_USER_ASSET';
+export const ON_GET_SETTINGS = 'ON_GET_SETTINGS';
+export const ON_GET_ORDERS = 'ON_GET_ORDERS';
+export const ON_GET_ORDER = 'ON_GET_ORDER';
+export const GET_ALL_PAGES = 'GET_ALL_PAGES';
+export const ON_GET_PAGE = 'ON_GET_PAGE';
+export const GET_PAGE_HISTORY = 'GET_PAGE_HISTORY';
+export const ON_GET_CARD_USERS = 'ON_GET_CARD_USERS';
+export const ON_GET_STATUS = 'ON_GET_STATUS';
+export const GET_SPECIFIC_PAYMENT = 'GET_SPECIFIC_PAYMENT';

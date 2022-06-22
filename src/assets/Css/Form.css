@@ -1,0 +1,25 @@
+.GlobalFormItem_Label .ant-form-item-label {
+    left: 10px !important;
+    margin-bottom: -12px;
+    padding: 0;
+    transition: all .3s cubic-bezier(.27, .2, .52, 1.29) !important;
+}
+
+.GlobalFormItem_Label label {
+    padding: 0 7px;
+    background: var(--white);
+    z-index: 1;
+    color: var(--text14);
+    transition: all .3s cubic-bezier(.27, .2, .52, 1.29) !important;
+}
+
+.GlobalFormItem_Label_hidden label{
+    display: none;
+}
+
+.GlobalFormItem_Label_hidden .ant-form-item-label {
+    left: 10px !important;
+    margin-bottom: -20px;
+    padding: 0;
+    transition: all .3s cubic-bezier(.27, .2, .52, 1.29) !important;
+}

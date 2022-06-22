@@ -1,0 +1,95 @@
+.display_flex_row_center {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.display_flex_row_align_center {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+}
+
+.display_flex_row_justify_center {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+}
+
+.display_flex_column_start {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.display_flex_column_center {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.display_flex_column_align_center {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+}
+
+.display_flex_column_justify_center {
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+.display_flex_column_justify_end {
+    display: flex;
+    flex-direction: column !important;
+    align-items: flex-end !important;
+    justify-content: center !important;
+}
+
+.display_flex_column_space_between {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.display_flex_row_space_between {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.display_flex_row_space_between_align_first {
+    display: flex;
+    justify-content: space-between;
+}
+
+.display_flex_row_space_around {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.display_flex_row_justify_end {
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: center;
+}
+
+.display_flex_row_justify_start {
+    display: flex !important;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.display_flex_row_space_evenly_align_first {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.display_flex_row_space_around_align_first {
+    display: flex;
+    justify-content: space-around;
+}

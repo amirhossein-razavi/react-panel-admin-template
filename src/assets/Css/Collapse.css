@@ -1,0 +1,33 @@
+.customCollapse {
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.arrowPositionCollapse .ant-collapse-header div {
+    position: absolute;
+    right: 0;
+}
+
+.customCollapse>.ant-collapse-item>.ant-collapse-header .ant-collapse-arrow {
+    right: auto;
+    left: 16px;
+}
+
+.customCollapse>.ant-collapse-item>.ant-collapse-header {
+    padding: 12px 0;
+    padding-left: 0;
+    font-size: 16px;
+}
+
+.customCollapse.ant-collapse {
+    background-color: unset;
+    border: unset;
+}
+
+.customCollapse>.ant-collapse-item {
+    border-bottom: 1px solid var(--grey3);
+}
+
+.customCollapse .ant-collapse-content {
+    border-top: 1px solid rgba(0, 0, 0, 0.06)
+}

@@ -1,0 +1,12 @@
+.loadingContainer {
+    font-size: 20px !important;
+    position: fixed !important;
+    width: 100% !important;
+    height: 100vh !important;
+    background-color: rgba(0, 0, 0, .8) !important;
+    z-index: 9999999 !important;
+}
+
+.loadingContainer p{
+    color: #fff !important;
+}

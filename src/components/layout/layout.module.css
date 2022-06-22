@@ -1,0 +1,64 @@
+.header {
+    height: 55px;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+.logo {
+    width: 75px;
+    height: 25px;
+    position: absolute;
+    right: 80px;
+}
+
+.sideBarIcon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 50px;
+    cursor: pointer;
+    z-index: 9999;
+}
+
+.header_icon {
+    margin-right: 15px;
+}
+
+.innerHeader {
+    margin-right: 235px;
+}
+
+.menuResponsive {
+    height: 55px;
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+.categoryWrapper {
+    /* background-color: #fff; */
+    padding: 15px;
+    border-radius: 10px;
+    /* height: 58px; */
+}
+
+.leftSide {
+    position: fixed !important;
+    width: 24%;
+    left: 2.5%;
+}
+
+.userFirstName {
+    margin-top: 10px;
+    color: #2a4755;
+    font-size: 14px;
+}
+
+.username {
+    color: #b5b5c2;
+}

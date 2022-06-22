@@ -1,0 +1,98 @@
+.primary_button {
+  border-radius: 5px;
+  background-color: var(--blue) !important;
+  border: 1px solid var(--blue);
+  color: var(--white);
+}
+
+.primary_button:hover,
+.primary_button:focus {
+  background-color: var(--blue) !important;
+  color: var(--white);
+  border: 1px solid var(--blue);
+}
+
+.primary_button:disabled {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.primary_button:disabled:hover {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.primary_button_outline {
+  border-radius: 5px;
+  background-color: transparent !important;
+  border: 1px solid var(--blue);
+  color: var(--blue);
+}
+
+.primary_button_outline:hover,
+.primary_button_outline:focus {
+  background-color: var(--blue) !important;
+  color: var(--white);
+  ;
+  border: 1px solid var(--blue);
+}
+
+.primary_button_outline:disabled {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.primary_button_outline:disabled:hover {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.primary_button_opacity {
+  border-radius: 5px;
+  background-color: rgba(24, 144, 255, 0.1) !important;
+  border: 1px solid var(--blue);
+  color: var(--blue);
+}
+
+.primary_button_opacity:hover,
+.primary_button_opacity:focus {
+  background-color: var(--blue) !important;
+  color: var(--white);
+  ;
+  border: 1px solid var(--blue);
+}
+
+.primary_button_opacity:disabled {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.primary_button_opacity:disabled:hover {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.red_button {
+  border-radius: 5px;
+  background-color: var(--red) !important;
+  border: 1px solid var(--red);
+  color: var(--white);
+}
+
+.red_button:hover,
+.red_button:focus {
+  background-color: var(--red) !important;
+  color: var(--white);
+  border: 1px solid var(--red);
+}
+
+.red_button:disabled {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
+.red_button:disabled:hover {
+  background-color: var(--text5) !important;
+  color: var(--text4) !important;
+}
+
